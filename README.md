@@ -2,7 +2,7 @@
 
 - Name: maafique
 - Date created: 28 march 2022
-- Purpose: Practising Git and Github
+- Purpose: Practicing Git and Github
 
 
  
